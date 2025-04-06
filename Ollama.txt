@@ -1,0 +1,9 @@
+ollama run llama3.1
+ollama run phi4-mini
+What is AGI?
+
+ollama create GENAI_Guru -f ./Mfile
+ollama run GENAI_Guru
+
+
+
